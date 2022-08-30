@@ -1,4 +1,8 @@
+# Nicholas Ayson
+# Email: nick.ayson@csu.fullerton.edu
+#
 # addition.s
+# Number 3 on Programming Assignment 1
 #
 # Print out "addition of 2 numbers: 3 and 2 "
 
@@ -24,3 +28,6 @@ main:   li $t0,3        # $t0 contains 3
 
         li $v0,10       # syscall 10 exit
         syscall         # exit out
+
+# OUTPUT in Console
+# The result of addition is: 5

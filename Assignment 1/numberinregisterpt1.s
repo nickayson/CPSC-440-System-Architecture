@@ -1,6 +1,6 @@
-## NumberInRegisterPt1.s
-## 
-## Program to demonstrate addition
+# NumberInRegisterPt1.s
+# 
+# Program to demonstrate addition
         .text
         .globl  main
 
@@ -9,7 +9,7 @@ main:
         ori  $9, $0, 0x2      # put 0x2 into $9
         addu $10,$9, $8       # $10 <—— sum
 
-## End of file
+# End of file
 
 # OUTPUT 
 # R8  [t0] = 3
