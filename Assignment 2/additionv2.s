@@ -2,6 +2,7 @@
 # Email: nick.ayson@csu.fullerton.edu
 #
 # additionv2.s
+# Number 2 on Programming Assignment 2
 # 
 # Program to demonstrate two's complement negative
 #
