@@ -1,3 +1,6 @@
+# Nicholas Ayson
+# Email: nick.ayson@csu.fullerton.edu
+#
 # additionv2.s
 # 
 # Program to demonstrate two's complement negative
