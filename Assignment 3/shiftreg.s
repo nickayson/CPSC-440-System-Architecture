@@ -1,7 +1,7 @@
 # Nicholas Ayson
 # Email: nick.ayson@csu.fullerton.edu
 #
-# additionv2.s
+# shiftreg.s
 # Number 2 on Programming Assignment 3
 # 
 # Program to load any register with 0x1A.  Shift left 2 positions and store result in a different register.
